@@ -1,27 +1,39 @@
 {
   "name": "@yelo/eosbet-cli",
-  "private": true,
   "version": "0.0.0",
-  "description": "",
+  "description": ":game_die: Play EOSBet in Terminal",
   "main": "./bin/index.js",
   "bin": {
     "eosbet": "./bin/index.js"
   },
-  "keywords": [],
-  "author": "yelo",
-  "license": "ISC",
-  "devDependencies": {
-    "eosjs": "^16.0.8",
-    "socket.io-client": "^2.1.1"
+  "files": [
+    "bin"
+  ],
+  "repository": {
+    "url": "imyelo/eosbet-cli",
+    "type": "git"
   },
+  "bugs": {
+    "url": "https://github.com/imyelo/eosbet-cli/issues"
+  },
+  "homepage": "https://github.com/imyelo/eosbet-cli",
+  "keywords": [
+    "eosbet",
+    "eos",
+    "cli"
+  ],
+  "author": "yelo",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
     "conf": "^2.0.0",
     "config": "^2.0.1",
+    "eosjs": "^16.0.8",
     "eventemitter3": "^3.1.0",
     "inquirer": "^6.2.0",
     "lowdb": "^1.0.0",
     "signale": "^1.3.0",
+    "socket.io-client": "^2.1.1",
     "yargs": "^12.0.2"
   }
 }
