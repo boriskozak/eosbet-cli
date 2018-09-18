@@ -9,7 +9,7 @@ module.exports = new Conf({
     },
     "eos": {
       "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
-      "httpEndpoint": "https://eos.greymass.com"
+      "httpEndpoint": "https://api1.eosasia.one/"
     },
     "eosbet": {
       "contract": "eosbetdice11",
