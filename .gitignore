@@ -1,3 +1,2 @@
-/config/local.*
+/.database.json
 node_modules
-
