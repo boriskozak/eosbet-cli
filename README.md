@@ -2,21 +2,12 @@
 > :game_die: Play [EOSBet](https://dice.eosbet.io/?ref=yeloyeloyelo) in Terminal
 
 ## Installation
-### ~From npm ~ (not available yet)
 ```bash
 npm i -g @yelo/eosbet-cli
 ```
 
-### From git
-```bash
-git clone git@github.com:imyelo/eosbet-cli.git
-cd eosbet-cli
-npm i
-npm link
-```
-
 ## Usage
-1. Setup your account:
+1. Setup your eos account:
 
   ```bash
   $ eosbet config
