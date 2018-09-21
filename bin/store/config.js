@@ -13,7 +13,7 @@ module.exports = new Conf({
     },
     "eosbet": {
       "contract": "eosbetdice11",
-      "referrer": "yeloyeloyelo",
+      "referrer": "cpuemergency",
       "seed": ""
     },
   },
