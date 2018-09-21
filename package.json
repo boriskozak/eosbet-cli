@@ -1,5 +1,5 @@
 {
-  "name": "@yelo/eosbet-cli",
+  "name": "eosbet-cli",
   "version": "0.1.1",
   "description": ":game_die: Play EOSBet in Terminal",
   "main": "./bin/index.js",
@@ -14,9 +14,9 @@
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/imyelo/eosbet-cli/issues"
+    "url": "https://github.com/boriskozak/eosbet-cli/issues"
   },
-  "homepage": "https://github.com/imyelo/eosbet-cli",
+  "homepage": "https://github.com/boriskozak/eosbet-cli",
   "keywords": [
     "eosbet",
     "eos",
